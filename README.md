@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# イベントで作成した自己紹介サイト
+
+とりあえず記録として残すためpushしました。デプロイも何もしていないかつ、未完成です。ご了承ください。
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
